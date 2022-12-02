@@ -1,2 +1,1 @@
-# Python-Code
-Different Application Of Python
+#Different Application Of Python
