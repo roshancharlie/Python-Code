@@ -6,4 +6,4 @@ Different Application Of Python
 4. Pandas Data Exploration and Data Cleaning
 5. Solving Schrodinger Equation On Hydrogen Atom
 6. Project Application in Python
-7. Machine Learning With Python
+7. Web Scraping With IMDB data Using Python
